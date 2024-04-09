@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "945250486068",
+    "project_id": "banaotask3-9852b",
+    "storage_bucket": "banaotask3-9852b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945250486068:android:adc5550388b77d8ee64761",
+        "android_client_info": {
+          "package_name": "com.example.bano_task3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-H1_hDKW52Zssyz4DcEHKrDCJQQn9rRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD2-Lq26k2aAnX-w7qkjrT0MuKfMPs7MbA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>945250486068</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.banoTask3</string>
+	<key>PROJECT_ID</key>
+	<string>banaotask3-9852b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>banaotask3-9852b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:945250486068:ios:fbf6ca1921761a7be64761</string>
+</dict>
+</plist>
